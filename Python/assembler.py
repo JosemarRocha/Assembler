@@ -1,5 +1,5 @@
 #Assembler
-#Diego é lindo <3
+#Diego é lindo <3!!!
 ###criação de listas para ter os dados dos registradores, opcodes, functs de instruções tipo R###
 register = {}
 op = {}
